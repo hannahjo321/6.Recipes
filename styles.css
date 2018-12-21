@@ -1,0 +1,41 @@
+body {
+  padding-top: 200px;
+  padding-left: 225px;
+  margin: 0px;
+  font-family: sans-serif;
+background-image: url(https://i.pinimg.com/originals/b8/8c/b8/b88cb8f0b80fd9ee28f346a3633e960d.png);
+background-position: top;
+background-size: cover;
+}
+
+.recipeImage{
+  float: left;
+}
+
+.recipeTitle{
+  font-size: 30px;
+}
+
+#recipeContent{
+  margin: 50px;
+}
+
+.ingredients{
+  font-size: 20px;
+  padding-right: 150px;
+}
+
+.stuff {
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+
+#h1 {
+  font-size: 30px;
+  font-weight: bolder;
+}
+#p{
+  font-size: 25px;
+  padding-bottom: 20px;
+}
